@@ -6,8 +6,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
-
-## Overview
+<p align="center">
+  <img src="images/nykaa_logo.png" alt="Nykaa Logo" width="300"/>
+</p>
+---
+## Project Overview
 This project explores **Uber trip data** to uncover trends, patterns, and business insights. Using **Python, SQL, and Power BI**, the analysis highlights trip volumes, peak demand times, vehicle utilization, and base performance.  
 
 The goal: **turn raw data into actionable insights for operational optimization**.
