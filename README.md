@@ -7,9 +7,10 @@
 
 ---
 <p align="center">
-  <img src="images/nykaa_logo.png" alt="Nykaa Logo" width="300"/>
+  <img src="images/UBER.png" alt="Uber Logo" width="600"/>
 </p>
----
+
+
 ## Project Overview
 This project explores **Uber trip data** to uncover trends, patterns, and business insights. Using **Python, SQL, and Power BI**, the analysis highlights trip volumes, peak demand times, vehicle utilization, and base performance.  
 
@@ -46,15 +47,17 @@ The goal: **turn raw data into actionable insights for operational optimization*
 - **Environment**: Jupyter Notebook  
 
 ---
+## 📷 Power BI Dashboard
+<p align="center">
+  <img src="images/uber dashboard PNG.png" alt="Power BI Dashboard" width="2000"/>
+</p>
+
 ## Key Insights
 1. **Trip Trends**: Daily trips peaked at ~100,000; early January trips were ~25,000–40,000/day.  
 2. **Vehicle Efficiency**: Each vehicle completes 8–9 trips on average.  
 3. **Base Performance**: Top 2 bases cover ~80% of trips, showing opportunities for resource optimization.  
 
 ---
-## Author
-**Ayesha Nadaf**  
-- Email: nadafayesha175@gmail.com 
 
 
 
