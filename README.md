@@ -49,7 +49,7 @@ The goal: **turn raw data into actionable insights for operational optimization*
 ---
 ## 📷 Power BI Dashboard
 <p align="center">
-  <img src="images/uber dashboard PNG.png" alt="Power BI Dashboard" width="2000"/>
+  <img src="images/uber dashboard PNG.png" alt="Power BI Dashboard" width="8000"/>
 </p>
 
 ## Key Insights
