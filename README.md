@@ -1,4 +1,4 @@
-# Uber Data Analysis 🚗📊
+# Uber Ride Demand and Fleet Utilization Analysis 🚗📊
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite3-orange)
